@@ -1,0 +1,8 @@
+eel
+pyttsx3
+SpeechRecognition
+PyAudio
+pywhatkit
+pvporcupine
+pyautogui
+hugchat
